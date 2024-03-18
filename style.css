@@ -7,8 +7,8 @@
   :root {
     font-size: 62.5%;
     --bc-primary: hsl(223, 100%, 96%);
-    --bc-second: #7D70F3;
-    --bc-third: #5D5FEF;
+    --bc-second: #F57371;
+    --bc-third: #D43D8A;
     --bc-fourth: hsl(0, 0%, 100%);
     --bc-fifth: hsl(230, 100%, 9%);
     --ff-primary: "Roboto", sans-serif;
